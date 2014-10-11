@@ -1,12 +1,11 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
+
+highlighter: pygments
 
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
+#url: kgourgou.github.io
+
+
