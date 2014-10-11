@@ -2,7 +2,7 @@
 layout: post
 title: "Can't invert the CDF? Perhaps you should try interpolation."
 category: 
-tags: []
+tags: [from the old blog]
 ---
 
 
