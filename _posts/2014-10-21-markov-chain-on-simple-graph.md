@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markov chain on simple graph"
+title: "Markov chain on complete graph"
 category: 
 tags: [mathy]
 ---
