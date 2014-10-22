@@ -25,7 +25,7 @@ $$t^1=\inf\{n\geq 1:X_n=1\}$$
 
 The situation is as follows. For a complete graph with N vertices, the probability that the process will jump from one vertex to another is $$\frac{1}{N-1}$$, since all of them are connected. As you can imagine, there is a fair amount of movement in this chain, from one vertex to the next, visiting all states over and over.  
 
-However, the $$t^1$$ doesn't see any of that movement. In fact, it's not difficult to convince ourselves that for $$t^1$$, the Markov chain on the graph with N vertices is the same as the following, 
+However, $$t^1$$ doesn't see any of that movement. In fact, it's not difficult to convince ourselves that for $$t^1$$, the Markov chain on the graph with N vertices is the same as the following, 
 
 <center>
 <img src="/images/two_state.png" width="400" height="300">
