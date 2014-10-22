@@ -81,7 +81,8 @@ x = Finv(u);
 
 The mean and variance of our samples are -0.00028 and 1.02046 respectively. Not bad, right?  Here's a comparison between the histogram of our samples and one that we got with another method. histogram
 
-<img src="hist1.png" alt-text="histogram comparing the two distribution">
+
+![Look at the two distributions](/images/hist1.png)
 
 ##Pitfalls & Advantages
 
