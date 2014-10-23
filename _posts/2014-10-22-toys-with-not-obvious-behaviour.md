@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Toys" with not obvious behaviour"
+title: "Toys with not obvious behaviour"
 category: 
 tags: []
 ---
