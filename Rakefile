@@ -3,7 +3,7 @@ require 'yaml'
 
 SOURCE = "."
 CONFIG = {
-      'posts' => File.join(SOURCE, "_drafts"),
+      'posts' => File.join(SOURCE, "_posts"),
         'post_ext' => "md",
 }
 
