@@ -10,7 +10,7 @@ tags: [Information Theory]
 
 Most of the discussion below is motivated from the book *Elements of Information Theory* by Thomas M. Cover and Joy A. Thomas.
 
-Let $X=\{0,1\}$ be the set of available symbols. Then, I am interested in playing around with sequences of n elements that are made up of the previous alphabet. For example, if $n=4$, such sequences may be, 
+Let $ X=\{0,1\} $ be the set of available symbols. Then, I am interested in playing around with sequences of n elements that are made up of the previous alphabet. For example, if $n=4$, such sequences may be, 
 
 $$
 \begin{align}
