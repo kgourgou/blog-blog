@@ -28,6 +28,8 @@ Let $$X_1,X_2,X_3,\ldots, X_n\sim P$$, $$P$$ being some probability mass functio
 $$
 -\frac{1}{n}\log(P(X_1,\ldots,X_n))\to H(X),
 $$
+
+
 where $$H(X)$$ is the [entropy rate](http://en.wikipedia.org/wiki/Entropy_rate) of the process. Convergence is in probability! In other words, if we have $$\epsilon_1,\epsilon_2>0$$, then there exists a $$n_0=n_0(\epsilon_1,\epsilon_2)$$ such that if $$n\geq n_0$$, 
 
 $$
