@@ -3,7 +3,6 @@ layout: post
 title: A list of modern beamer slides
 author: Kostis
 ---
-# A list of modern beamer themes. 
 
 I've been searching around for more modern beamer themes (mostly because I don't like the classical ones). Here's what I found thus far. 
 
