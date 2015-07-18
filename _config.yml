@@ -1,11 +1,9 @@
+# Site settings
+title: 'Not Abstract Nonsense' # Your Title
+tagline:  # A brief tagline for your site
+sidebar_image: /images/cover.jpg
+
+# Build settings
 markdown: kramdown
-permalink: /posts/:title
-
 highlighter: pygments
-
-gems:
-  - jekyll-sitemap
-
-url: notabstractnonsense.com
-
-
+baseurl:  # the subpath of your site, e.g. /blog/

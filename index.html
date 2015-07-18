@@ -1,18 +1,29 @@
 ---
-layout: layout
-title: "Posts"
+layout: default
 ---
-
-<section class="content">
- <h1><del>Abstract Nonsense</del> </h1>
-
-  <ul class="listing">
-    {% for post in site.posts %}
-      {% unless post.draft %}
+<header id="home-header" style="background-image: url({{ site.baseurl }}{{ site.sidebar_image }});">
+  <div class="container">
+    <h1>{{ site.title }}</h1>
+    <ul class="meta">
       <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+        <span>
+          {{ site.tagline }}
+        </span>
       </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-</section>
+  </div>
+</header>
+<article>
+  <div class="container">
+    <ul class="posts">
+      {% for post in site.posts %}
+        <li>
+          <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+          <span class="meta">
+            {{ post.date | date_to_string }}
+          </span>
+          {{ post.excerpt }}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</article>
