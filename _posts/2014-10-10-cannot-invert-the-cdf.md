@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can't invert the CDF? Perhaps you should try interpolation."
-category: 
+category: science 
 tags: [from the old blog]
 ---
 
