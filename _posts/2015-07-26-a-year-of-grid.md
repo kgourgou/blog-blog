@@ -38,5 +38,5 @@ To close with the academic year, we used some of our funds to travel to Boston w
 
 ## One eye on the future
 
-To sum up, it was a very productive year, both for GRiD and for data science on campus. The [College of Information and Computer Sciences](https://www.cs.umass.edu) announced a new [Center for Data Science](http://ds.cs.umass.edu/) on campus. The Center announced a B.S and M.S. with a data science concentration. And of course, the Center will facilitate greater collaboration with scientists across campus and five colleges on data science related projects. As a group, we are definitely paying a lot of attention to the new possibilities that can come up through UMass CS. 
+To sum up, it was a very productive year, both for GRiD and for data science on campus. The [College of Information and Computer Sciences](https://www.cs.umass.edu) announced a new [Center for Data Science](http://ds.cs.umass.edu/). The Center will provide a B.S and M.S. with a data science concentration and facilitate greater collaboration with scientists across campus and the five colleges on data science related projects. As a group, we are definitely paying a lot of attention to the new possibilities that can come up through this new Center.
 
