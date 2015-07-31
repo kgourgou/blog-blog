@@ -21,6 +21,13 @@ body {
   white-space: nowrap;
 }
 
+img {
+
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
 /* Type */
 
 h1,
