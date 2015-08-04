@@ -1,6 +1,6 @@
 # Site settings
 title: 'Not Abstract Nonsense' # Your Title
-tagline:  An applied mathematician writes. Posts by <a href="https://twitter.com/kgourg">@kgourg</a>. <a href="http://notabstractnonsense.com/feed.xml">RSS feed here.</a>.  
+tagline:  An applied mathematician writes. Posts by <a href="https://twitter.com/kgourg">@kgourg</a>. <a href="http://notabstractnonsense.com/atom.xml">RSS feed here.</a>.  
 sidebar_image: /images/cover.jpg
 
 # Build settings
