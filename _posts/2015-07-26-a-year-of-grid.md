@@ -5,6 +5,8 @@ category:
 tags: [umass,data science]
 ---
 
+<p><span style="display:none">claimtoken-55c1222f54bff</span></p> 
+
 It's been almost a year since [GRiD](http://umassamherst-grid.github.io/), also known as *Graduate Researchers interested in Data*, was founded at UMass Amherst. This is a group operated by graduate students, for graduate students, with the goal of promoting data science across campus.
 
 From the beginning, we have been dataset and programming language agnostic. The goal was not to learn R, Python, or Julia, neither to apply the ideas in the study of very specific sets of data. Those were desirable, of course, but they would (probably) come naturally during our research work as graduate students. Instead, what we tried to do was create a community of people from different disciplines with a common focus; To learn from each other and develop our skills, plus start creating some "Hacker culture" at the graduate student level, which was currently missing from UMass. 
