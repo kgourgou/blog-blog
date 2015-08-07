@@ -64,7 +64,7 @@ even though the distributions are substantially different.
 
 <img src="https://drive.google.com/uc?export=download&id=0B4JwQ7883JIGUGxwaTFUd2daZjA" alt="Two Normal distributions with large variance but different means">
 
-[Here is a jupyter notebook](), in case you want to do other experiments.
+[Here is a jupyter notebook](https://github.com/kgourgou/blog-RE-tolerance), in case you want to do other experiments.
 
 
 
