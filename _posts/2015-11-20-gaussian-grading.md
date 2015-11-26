@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "``Gaussian'' grading"
+title: "Gaussian grading"
 category: science
 tags: [silly]
 ---
