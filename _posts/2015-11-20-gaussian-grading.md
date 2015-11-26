@@ -21,7 +21,7 @@ If the problem was too easy or too hard, the bulk of the exams should be done. T
 
 And it goes on. Your future stack is now your new to-do stack. This time you make a rubric for the simplest of mistakes and carry on in the same way, only tackling the easy ones. As you move on, you will now know what kind of errors you should expect in the future stack, and that stack will get smaller and smaller with every pass. 
 
-## Why ``Gaussian"?
+## Why "Gaussian"?
 Normally (no pun intended), the distribution of grades in an exam follows a bell-shaped curve around some average grade. This is what we call in mathematics a Normal or Gaussian distribution. If we could just grade in binary (fail/pass), then the process would be simple. However, it is often unreasonable to deduct points from a student that has most of the answer right except for unfortunate numeric mistakes. Then, one needs to figure out a consistent way to assign partial credit, which is where most graders spent time. :-)
 
 In classical academic style, here's a list of the advantages of this method.
