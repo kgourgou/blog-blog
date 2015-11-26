@@ -1,9 +1,11 @@
 ---
 layout: post
-title: ``Gaussian'' grading
-category: 
-tags: [silly,math]
+title: "``Gaussian'' grading"
+category: science
+tags: [silly]
 ---
+
+
 
 Here's an idea on how to grade your exams/papers/etc., potentially faster while keeping your morale high. This will work better when answers are standardized, i.e. there is only one correct answer and it only takes a few seconds to verify that the answer is completely correct. I can't say I discovered the method, but it's the one I use when I grade.
 
