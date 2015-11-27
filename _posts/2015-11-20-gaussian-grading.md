@@ -26,7 +26,7 @@ Normally (no pun intended), the distribution of grades in an exam follows a bell
 
 In classical academic style, here's a list of the advantages of this method.
 
-1. It provides a sense of "getting-things-done" as you progress through the stack faster (at least in the beggining). 
+1. It provides a sense of "getting-things-done" as you progress through the stack faster (at least in the beginning). 
 2. It allows you to make a better rubric, since you will have some partial knowledge from the whole stack, not just a small sample. 
 3. If the tails of the distribution (of grades) are rather big, then after a couple of iterations the future stack will only have a small number of papers.
 4. It doesn't take more time than the classical "sample, make rubric, grade all papers" approach but it could take less. :-)
