@@ -1,9 +1,11 @@
 ----
 layout: post
-title: ``Gaussian'' grading
+title: "Gaussian grading
 category: 
 tags: [silly,math]
 ----
+
+
 
 Here's an idea on how to grade your exams/papers/etc., potentially faster while keeping your morale high. This will work better when answers are standardized, i.e. there is only one correct answer and it only takes a few seconds to verify that the answer is completely correct. I can't say I discovered the method, but it's the one I use when I grade.
 
@@ -19,12 +21,12 @@ If the problem was too easy or too hard, the bulk of the exams should be done. T
 
 And it goes on. Your future stack is now your new to-do stack. This time you make a rubric for the simplest of mistakes and carry on in the same way, only tackling the easy ones. As you move on, you will now know what kind of errors you should expect in the future stack, and that stack will get smaller and smaller with every pass. 
 
-## Why ``Gaussian"?
+## Why "Gaussian"?
 Normally (no pun intended), the distribution of grades in an exam follows a bell-shaped curve around some average grade. This is what we call in mathematics a Normal or Gaussian distribution. If we could just grade in binary (fail/pass), then the process would be simple. However, it is often unreasonable to deduct points from a student that has most of the answer right except for unfortunate numeric mistakes. Then, one needs to figure out a consistent way to assign partial credit, which is where most graders spent time. :-)
 
 In classical academic style, here's a list of the advantages of this method.
 
-1. It provides a sense of "getting-things-done" as you progress through the stack faster (at least in the beggining). 
+1. It provides a sense of "getting-things-done" as you progress through the stack faster (at least in the beginning). 
 2. It allows you to make a better rubric, since you will have some partial knowledge from the whole stack, not just a small sample. 
 3. If the tails of the distribution (of grades) are rather big, then after a couple of iterations the future stack will only have a small number of papers.
 4. It doesn't take more time than the classical "sample, make rubric, grade all papers" approach but it could take less. :-)
