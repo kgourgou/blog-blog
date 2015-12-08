@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Polynomial Chaos expansions and Moments of the solution"
+title: "Polynomial Chaos expansions"
 category: 
 tags: [math]
 ---
