@@ -1,4 +1,9 @@
-# A short intro on the method of characteristics
+---
+layout: post
+title: "A short intro to the method of characteristics"
+category:
+tags: []
+---
 
 The following is not super rigorous but should be a good intro to the idea.
 
