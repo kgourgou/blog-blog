@@ -9,4 +9,4 @@ sidebar_image: /images/cover.jpg
 # Build settings
 markdown: kramdown
 highlighter: rouge
-baseurl: /kgourgou.github.io # the subpath of your site, e.g. /blog/
+baseurl: /kgourgou.github.io/myblog/ # the subpath of your site, e.g. /blog/
