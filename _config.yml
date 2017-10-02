@@ -2,11 +2,11 @@
 title: 'Not Abstract Nonsense' # Your Title
 tagline:  An applied mathematician writes. Posts by <a href="https://twitter.com/kgourg">@kgourg</a>. <a href="http://notabstractnonsense.com/atom.xml">RSS feed here.</a>.  
 
-url: https://kgourgou.github.io/myblog/
+url: https://kgourgou.github.io/
 
 sidebar_image: /images/cover.jpg
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-baseurl: /kgourgou.github.io/myblog/ # the subpath of your site, e.g. /blog/
+baseurl: /myblog/ # the subpath of your site, e.g. /blog/
